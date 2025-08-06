@@ -130,7 +130,7 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CORS_ALLOWED_ORIGINS = [
-    'https://moonlit-cascaron-55d164.netlify.app'
+    'https://effervescent-douhua-1d5151.netlify.app'
         # 'http://localhost:5173',
 
 ]
@@ -163,6 +163,7 @@ CSRF_TRUSTED_ORIGINS = [
 ]
 
 CORS_ALLOW_CREDENTIALS = True
+
 
 
 
