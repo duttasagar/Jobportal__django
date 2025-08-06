@@ -160,4 +160,7 @@ CSRF_TRUSTED_ORIGINS = [
     "https://effervescent-douhua-1d5151.netlify.app",
 ]
 
+CORS_ALLOW_CREDENTIALS = True
+
+
 
