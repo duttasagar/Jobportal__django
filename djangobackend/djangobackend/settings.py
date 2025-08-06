@@ -157,6 +157,7 @@ EMAIL_HOST_PASSWORD = 'hshh ibar fuzs urev'
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://your-netlify-site.netlify.app",
+    "https://effervescent-douhua-1d5151.netlify.app",
 ]
+
 
